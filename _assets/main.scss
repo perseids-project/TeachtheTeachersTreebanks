@@ -1,0 +1,11 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+@import "navbar";
+
+.content {
+  width: 80%;
+  margin: 0 auto;
+}

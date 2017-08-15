@@ -1,0 +1,209 @@
+{
+  "@context": {
+    "prov": "http://www.w3.org/ns/prov#"
+  },
+  "@id": "../../data/perseus-grctb.4512.1.xml",
+  "@type": "prov:Entity",
+  "prov:wasDerivedFrom": [
+    {
+      "@type": "prov:Entity",
+      "@id": "urn:cts:greekLit:tlg0014.tlg018.perseus-grc1"
+    },
+    {
+      "@type": "prov:Entity",
+      "@id": "urn:cts:greekLit:tlg0014.tlg018.perseus-grc1:1"
+    },
+    {
+      "@type": "prov:Entity",
+      "@id": "urn:cts:greekLit:tlg0014.tlg018.perseus-grc1:2"
+    },
+    {
+      "@type": "prov:Entity",
+      "@id": "urn:cts:greekLit:tlg0014.tlg018.perseus-grc1:3"
+    },
+    {
+      "@type": "prov:Entity",
+      "@id": "urn:cts:greekLit:tlg0014.tlg018.perseus-grc1:4"
+    },
+    {
+      "@type": "prov:Entity",
+      "@id": "urn:cts:greekLit:tlg0014.tlg018.perseus-grc1:5"
+    },
+    {
+      "@type": "prov:Entity",
+      "@id": "urn:cts:greekLit:tlg0014.tlg018.perseus-grc1:6"
+    },
+    {
+      "@type": "prov:Entity",
+      "@id": "urn:cts:greekLit:tlg0014.tlg018.perseus-grc1:8"
+    },
+    {
+      "@type": "prov:Entity",
+      "@id": "urn:cts:greekLit:tlg0014.tlg018.perseus-grc1:9"
+    },
+    {
+      "@type": "prov:Entity",
+      "@id": "urn:cts:greekLit:tlg0014.tlg018.perseus-grc1:10"
+    },
+    {
+      "@type": "prov:Entity",
+      "@id": "urn:cts:greekLit:tlg0014.tlg018.perseus-grc1:11"
+    },
+    {
+      "@type": "prov:Entity",
+      "@id": "urn:cts:greekLit:tlg0014.tlg018.perseus-grc1:12"
+    },
+    {
+      "@type": "prov:Entity",
+      "@id": "urn:cts:greekLit:tlg0014.tlg018.perseus-grc1:13"
+    },
+    {
+      "@type": "prov:Entity",
+      "@id": "urn:cts:greekLit:tlg0014.tlg018.perseus-grc1:14"
+    },
+    {
+      "@type": "prov:Entity",
+      "@id": "urn:cts:greekLit:tlg0014.tlg018.perseus-grc1:15"
+    },
+    {
+      "@type": "prov:Entity",
+      "@id": "urn:cts:greekLit:tlg0014.tlg018.perseus-grc1:16"
+    },
+    {
+      "@type": "prov:Entity",
+      "@id": "urn:cts:greekLit:tlg0014.tlg018.perseus-grc1:17"
+    },
+    {
+      "@type": "prov:Entity",
+      "@id": "urn:cts:greekLit:tlg0014.tlg018.perseus-grc1:18"
+    },
+    {
+      "@type": "prov:Entity",
+      "@id": "urn:cts:greekLit:tlg0014.tlg018.perseus-grc1:19"
+    },
+    {
+      "@type": "prov:Entity",
+      "@id": "urn:cts:greekLit:tlg0014.tlg018.perseus-grc1:20"
+    },
+    {
+      "@type": "prov:Entity",
+      "@id": "urn:cts:greekLit:tlg0014.tlg018.perseus-grc1:21"
+    },
+    {
+      "@type": "prov:Entity",
+      "@id": "urn:cts:greekLit:tlg0014.tlg018.perseus-grc1:22"
+    },
+    {
+      "@type": "prov:Entity",
+      "@id": "urn:cts:greekLit:tlg0014.tlg018.perseus-grc1:23"
+    },
+    {
+      "@type": "prov:Entity",
+      "@id": "urn:cts:greekLit:tlg0014.tlg018.perseus-grc1:24"
+    },
+    {
+      "@type": "prov:Entity",
+      "@id": "urn:cts:greekLit:tlg0014.tlg018.perseus-grc1:25"
+    },
+    {
+      "@type": "prov:Entity",
+      "@id": "urn:cts:greekLit:tlg0014.tlg018.perseus-grc1:26"
+    },
+    {
+      "@type": "prov:Entity",
+      "@id": "urn:cts:greekLit:tlg0014.tlg018.perseus-grc1:27"
+    },
+    {
+      "@type": "prov:Entity",
+      "@id": "urn:cts:greekLit:tlg0014.tlg018.perseus-grc1:28"
+    },
+    {
+      "@type": "prov:Entity",
+      "@id": "urn:cts:greekLit:tlg0014.tlg018.perseus-grc1:29"
+    },
+    {
+      "@type": "prov:Entity",
+      "@id": "urn:cts:greekLit:tlg0014.tlg018.perseus-grc1:30"
+    },
+    {
+      "@type": "prov:Entity",
+      "@id": "urn:cts:greekLit:tlg0014.tlg018.perseus-grc1:31"
+    },
+    {
+      "@type": "prov:Entity",
+      "@id": "urn:cts:greekLit:tlg0014.tlg018.perseus-grc1:32"
+    },
+    {
+      "@type": "prov:Entity",
+      "@id": "urn:cts:greekLit:tlg0014.tlg018.perseus-grc1:33"
+    },
+    {
+      "@type": "prov:Entity",
+      "@id": "urn:cts:greekLit:tlg0014.tlg018.perseus-grc1:34"
+    },
+    {
+      "@type": "prov:Entity",
+      "@id": "urn:cts:greekLit:tlg0014.tlg018.perseus-grc1:35"
+    },
+    {
+      "@type": "prov:Entity",
+      "@id": "urn:cts:greekLit:tlg0014.tlg018.perseus-grc1:36"
+    },
+    {
+      "@type": "prov:Entity",
+      "@id": "urn:cts:greekLit:tlg0014.tlg018.perseus-grc1:37"
+    },
+    {
+      "@type": "prov:Entity",
+      "@id": "urn:cts:greekLit:tlg0014.tlg018.perseus-grc1:38"
+    },
+    {
+      "@type": "prov:Entity",
+      "@id": "urn:cts:greekLit:tlg0014.tlg018.perseus-grc1:39"
+    },
+    {
+      "@type": "prov:Entity",
+      "@id": "urn:cts:greekLit:tlg0014.tlg018.perseus-grc1:40"
+    },
+    {
+      "@type": "prov:Entity",
+      "@id": "urn:cts:greekLit:tlg0014.tlg018.perseus-grc1:41"
+    },
+    {
+      "@type": "prov:Entity",
+      "@id": "urn:cts:greekLit:tlg0014.tlg018.perseus-grc1:42"
+    },
+    {
+      "@type": "prov:Entity",
+      "@id": "urn:cts:greekLit:tlg0014.tlg018.perseus-grc1:43"
+    },
+    {
+      "@type": "prov:Entity",
+      "@id": "urn:cts:greekLit:tlg0014.tlg018.perseus-grc1:44"
+    },
+    {
+      "@type": "prov:Entity",
+      "@id": "urn:cts:greekLit:tlg0014.tlg018.perseus-grc1:45"
+    },
+    {
+      "@type": "prov:Entity",
+      "@id": "urn:cts:greekLit:tlg0014.tlg018.perseus-grc1:46"
+    },
+    {
+      "@type": "prov:Entity",
+      "@id": "urn:cts:greekLit:tlg0014.tlg018.perseus-grc1:47"
+    },
+    {
+      "@type": "prov:Entity",
+      "@id": "urn:cts:greekLit:tlg0014.tlg018.perseus-grc1:48"
+    },
+    {
+      "@type": "prov:Entity",
+      "@id": "urn:cts:greekLit:tlg0014.tlg018.perseus-grc1:49"
+    },
+    {
+      "@type": "prov:Entity",
+      "@id": "urn:cts:greekLit:tlg0014.tlg018.perseus-grc1:50"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+---
+
+layout: default
+
+---
+
+
+<div class="home">
+
+  <h1 class="page-heading"></h1>
+
+ <p> {{ content }}	</p> 
+
+<div class="tbpages">
+<h1 class="page-heading">Treebank Collection</h1> 
+<table class="tbpage-list">
+    <thead>
+      <th>Author</th>
+      <th>Work</th>
+      <th>Editors</th>
+      <th>Locus</th>
+      <th>Link</th>
+    </thead>
+    <tbody>
+    {% for page in site.tbpages %}
+      <tr>
+        <td class="page-meta">{{ page.author }}</td>
+        <td class="page-meta">{{ page.work }}</td>
+        <td class="page-meta">{{ page.editor }}</td>
+        <td class="page-meta">{{ page.locus }}</td>    
+        <td><a class="page-link" href="{{ page.url | relative_url }}">{{ page.title | escape }}</a></td>
+      </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+</div>
+  <div class="blogroll">
+
+  <h1 class="page-heading">The latest from the Blog</h1>  
+
+<ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+  </div>
+ <div>
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+
+
+
+</div>
+
