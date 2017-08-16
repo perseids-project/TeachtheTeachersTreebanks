@@ -1,0 +1,22 @@
+{
+  "@context": [
+    "https://w3id.org/bundle/context"
+  ],
+  "@id": "../",
+  "createdBy": {
+    "name": "Lisa Maurizio",
+    "uri": "http://data.perseus.org/sosol/users/LisaMaurizio"
+  },
+  "createdOn": "2017-08-16T13:50:40+00:00",
+  "aggregates": [
+    {
+      "conformsTo": "https://raw.githubusercontent.com/alpheios-project/schemas/master/xsd/treebank-1.7.xsd",
+      "mediatype": "application/xml",
+      "createdBy": {
+        "name": "Lisa Maurizio",
+        "uri": "http://data.perseus.org/sosol/users/LisaMaurizio"
+      },
+      "uri": "../data/perseus-lattb.6027.1.xml"
+    }
+  ]
+}
