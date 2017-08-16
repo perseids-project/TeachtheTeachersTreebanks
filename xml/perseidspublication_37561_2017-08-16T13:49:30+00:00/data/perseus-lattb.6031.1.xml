@@ -48,7 +48,7 @@
       <word id="12" form="curru" lemma="currus" postag="n-s---mb-" relation="AB-LOCAT" head="9"/>
       <word id="13" form="," lemma="punc1" postag="u--------" relation="AuxX" head="15"/>
       <word id="14" form="populo" lemma="populus1" postag="n-s---mb-" relation="AB-ABSOL" head="15"/>
-      <word id="15" form="clamante" lemma="clamo" postag="v-spp-mb-" relation="AB-ABSOL" head="18"/>
+      <word id="15" form="clamante" lemma="clamo" postag="v-spp-mb-" relation="AB-ABSOL" head="19"/>
       <word id="16" form="triumphum" lemma="triumphus" postag="n-s---ma-" relation="A-DO" head="15"/>
       <word id="17" form="," lemma="punc1" postag="u--------" relation="AuxX" head="15"/>
       <word id="18" form="stabis" lemma="sto" postag="v2sfia---" relation="PRED_CO" head="19"/>
