@@ -1,0 +1,22 @@
+{
+  "@context": [
+    "https://w3id.org/bundle/context"
+  ],
+  "@id": "../",
+  "createdBy": {
+    "name": "Daniel Murray",
+    "uri": "http://data.perseus.org/sosol/users/DanielMurray"
+  },
+  "createdOn": "2017-08-16T13:49:42+00:00",
+  "aggregates": [
+    {
+      "conformsTo": "https://raw.githubusercontent.com/alpheios-project/schemas/master/xsd/treebank-1.7.xsd",
+      "mediatype": "application/xml",
+      "createdBy": {
+        "name": "Daniel Murray",
+        "uri": "http://data.perseus.org/sosol/users/DanielMurray"
+      },
+      "uri": "../data/perseus-lattb.6036.1.xml"
+    }
+  ]
+}
