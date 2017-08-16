@@ -1,0 +1,5 @@
+48ee411b6c35367853e59a9adcea6551f9f638f8 bag-info.txt
+e2924b081506bac23f5fffe650ad1848a1c8ac1d bagit.txt
+a2516e0e28c3b1433a13626e81e936bc12388775 metadata/manifest.json
+08d00f55df706a147ea078286dad6edd279947d1 manifest-sha1.txt
+0c1e9b12b0b669c05fc47032762487fc1ebec8f2 manifest-md5.txt
