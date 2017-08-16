@@ -1,10 +1,11 @@
 ---
-layout:
-title:
-work:
-author:
-editor:
-locus:
-pubdir: perseidspublication_37566_2017-08-16T13:49:42+00:00
-tbfile:
+layout: tbpage
+title: "Ovid Amores chunk 4"
+work: "Amores"
+author: Ovid
+editor: Daniel Murray
+locus: 1.2
+pubdir: perseidspublication_37566_2017-08-16T13_49_42+00_00
+tbfile: perseus-lattb.6036.1.xml
 ---
+The treebanking worked fine on simple sentences, but compound and complex sentences required tags and punctuation that was confusing. Trying to figure out where to attach a comma or conjunction was not necessarily helping me understand the Latin. I will use it in a couple of my classes, but I'm not quite sure how I will use it yet.
